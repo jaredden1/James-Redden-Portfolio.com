@@ -1,4 +1,4 @@
-# James-Redden-Portfolio.com
+# www.James-Redden-Portfolio.com
 
 ## Technologies Used
 * React
@@ -21,6 +21,6 @@ Leverages the power of AWS Elastic Beanstalk for application deployment and mana
 ### GitHub Actions
 Employs GitHub Actions for an automated, seamless deployment pipeline. This CI/CD tool triggers deployments directly from the repository to AWS Elastic Beanstalk upon committing/merging to the main branch. It ensures that the portfolio is always up-to-date in the production environment, facilitating effortless updates and expansions with minimal manual intervention.
 
-## Contact
+## Contact Me
 Should you have any questions or wish to connect, please feel free to [Contact Me Here](http://www.james-redden-portfolio.com/contact/) or [LinkedIn](https://www.linkedin.com/in/jamesredden1/)
 
