@@ -1,4 +1,4 @@
-# www.James-Redden-Portfolio.com/
+# www.James-Redden-Portfolio.com
 
 ## Technologies Used
 * React
